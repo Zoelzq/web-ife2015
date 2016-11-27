@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>task0001</title>
+	<link rel="stylesheet" type="text/css" href="ife2015-task0001.css" />
+</head>
+<body>
+<h1>MyGithubAccountName</h1>
+<ul>
+	<li><a href="">Homepage</a></li>
+	<li><a href="">Blog</a></li>	
+</ul>
+<h2>这是二级标题</h2>
+<p>这是我的第一个HTML页面，这里有一个文字段落</p>
+<img src="https://github.com/baidu-ife/ife/blob/master/2015_spring/task/task0001/design/banner-bg.jpg?raw=true" width=200px height=200px>
+<div class="box1"></div>
+<div class="box2"></div>
+
+<div class="main">
+	<div class="left">div-A</div>
+	<div class="middle">div-B</div>
+	<div class="right">div-C</div>
+</div>
+<br />
+
+iv class="clc"></div>
+<div class="wrap">
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+	iv class="clc"></div>
+</div>
+
+<br />
+<div class="circle">
+    <div class="div1"></div>
+    <div class="div2"></div>
+    <div class="div3"></div>
+    <div class="div4"></div>
+    <div class="div5"></div>
+    <div class="main"></div>
+    <div class="div5"></div>
+    <div class="div4"></div>
+    <div class="div3"></div>
+    <div class="div2"></div>
+    <div class="div1"></div>
+</div>
+<br />
+<div class="circle2"></div>
+</body>
+</html>
